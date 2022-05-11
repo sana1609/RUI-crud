@@ -1,0 +1,136 @@
+:root{
+font-size: 10px;
+}
+body{
+font-family: 'Poppins', sans-serif;
+
+}
+.App{
+text-align: center;
+display: flex;
+flex-direction: column;
+}
+.navbar{
+width:100%;
+}
+.galleryPic{
+border-radius: 1rem;
+object-fit: cover;
+margin-bottom: 3rem;
+}
+.diaryIcon{
+width:6rem;
+height:5rem;
+}
+.TITLE{
+font-family: 'Special Elite', cursive;
+color:#0077ff;
+font-size:3rem;
+text-align: center;
+margin: 0;
+margin-bottom: 4rem;
+letter-spacing: 2px;
+}
+.TITLEBOX{
+display: flex;
+align-items:flex-start;
+justify-content: center;
+}
+.Error{
+display: flex;
+flex-direction: column;
+align-items: center;
+gap:2rem;
+}
+.dp{
+width:15rem;
+height:15rem;
+border-radius: 50%;
+object-fit: cover;
+margin-top: 1rem;
+}
+.Users{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+gap:3rem;
+}
+.name{
+font-size: 2rem;
+margin:0;
+letter-spacing: 2px;
+font-family: 'Special Elite', cursive;
+color:crimson;
+}
+.UsersList{
+padding:2rem;
+}
+.User{
+width:28rem;
+height:min-content;
+}
+.info{
+font-size:1.5rem;
+color:#0077ff;
+margin-bottom: 1rem;
+font-weight: 650;
+}
+.sub-head{
+font-family: 'Josefin Sans', sans-serif;
+letter-spacing: 1px;
+font-size:1.8rem;
+margin-bottom: 0.5rem;
+}
+.addUser-Form,.editUser-Form{
+display: flex;
+flex-direction: column;
+justify-content: center;
+width:100%;
+align-items: center;
+}
+.header{
+width:30rem;
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+margin-left:4rem;
+margin-right: 0;
+}
+.Profile{
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+}
+.More-Info>*{
+margin-bottom: 2rem;
+margin-top:2.5rem;
+}
+.More-Info{
+background: rgba( 10, 86, 176, 0.4 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+margin:1.5rem;
+padding:2rem;
+width:55%;
+text-align: left;
+}
+@media (max-width:500px)
+{
+.galleryPic{
+width:80%;
+}
+
+.Profile{
+justify-content: flex-start;
+}
+.More-Info{
+
+margin-left: 3rem;
+margin-top: 4rem;
+width:70%;
+text-align: left;
+}
+}

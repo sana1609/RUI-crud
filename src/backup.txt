@@ -1,0 +1,46 @@
+[
+ {
+  "name": "Robin",
+  "username": "robinlio",
+  "email": "liorobin5@gmail.com",
+  "about": "Web Developer,Football fan",
+  "displaypic": "https://funkylife.in/wp-content/uploads/2021/06/whatsapp-dp-15.jpg",
+  "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, sed perferendis quisquam modi",
+  "country": "India",
+  "phone": "9789762492",
+  "id": "101"
+ },
+ {
+  "name": "Leo Messi",
+  "username": "leomessi",
+  "email": "leomessi10@gmail.com",
+  "about": "Footballer",
+  "displaypic": "https://static01.nyt.com/images/2019/04/16/sports/16onsoccerweb-2/merlin_153612873_5bb119b9-8972-4087-b4fd-371cab8c5ba2-superJumbo.jpg",
+  "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, sed perferendis quisquam modi",
+  "country": "Spain",
+  "phone": "9789762654",
+  "id": "102"
+ },
+ {
+  "name": "John Silvester",
+  "username": "johnsilvester",
+  "email": "johnsilvester@gmail.com",
+  "about": "Writer,Plays Chess",
+  "displaypic": "http://www.goodmorningimagesdownload.com/wp-content/uploads/2021/01/Best-Single-Boys-Whatsapp-Dp-Wallpaper.jpg",
+  "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, sed perferendis quisquam modi",
+  "country": "Spain",
+  "phone": "9789762654",
+  "id": "103"
+ },
+ {
+  "name": "Katherine",
+  "username": "pkatherine",
+  "email": "katherinep@gmail.com",
+  "about": "Aspiring Writer,Gym freak.",
+  "displaypic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRUfjVk7kgiHTxiMz4RT4aNMUoyYVzHkIXg&usqp=CAU",
+  "address": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, sed perferendis quisquam modi",
+  "country": "Spain",
+  "phone": "9789762654",
+  "id": "104"
+ }
+]
